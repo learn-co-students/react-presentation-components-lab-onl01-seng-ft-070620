@@ -7,7 +7,7 @@ In this lab, you'll write two components:
 1. A presentation component with minimal UI state
 2. A so-called stateless function
 
-## Overview
+## Overview 
 
 A truth in programming is this: managing state is **hard**. We humans know
 this: imagine taking lunch orders for a small group of colleagues or friends.
